@@ -1,41 +1,19 @@
+# Hi there, I'm Luk! 👋
 
-## Olá, meu nome é Lucas Henrique!
+Sou desenvolvedor focado em construir soluções eficientes e escaláveis. Atualmente, aprofundo meus conhecimentos em arquitetura de microsserviços com **Python (FastAPI)** e **Java (Spring Boot)**, além de explorar o ecossistema de nuvem com **GCP**.
 
-### ⚙️ GitHub Analytics
+### 🛠 Tecnologias & Ferramentas
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=LukC30&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukC30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- **Frameworks:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+- **Cloud & DB:** ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
---- 
+### 📊 Estatísticas do GitHub
 
-### 🏆 GitHub Profile Trophy
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/stats/?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=vision-friendly-dark)
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=LukC30&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+### 📫 Vamos nos conectar?
 
----
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/lukc30])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[carvalholucas30@gmail.com])
