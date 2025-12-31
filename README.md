@@ -1,6 +1,7 @@
-# Hi there, I'm Luk! 👋
+# Seja bem vindo a minha bagunça! 👋
 
-Sou desenvolvedor focado em construir soluções eficientes e escaláveis. Atualmente, aprofundo meus conhecimentos em arquitetura de microsserviços com **Python (FastAPI)** e **Java (Spring Boot)**, além de explorar o ecossistema de nuvem com **GCP**.
+Sou desenvolvedor focado em montar alguns projetinhos em python apenas pra estudo, no mais, to sempre fazendo alguma bagunça (não tanto por aqui)
+Sinta-se a vontade!
 
 ### 🛠 Tecnologias & Ferramentas
 
