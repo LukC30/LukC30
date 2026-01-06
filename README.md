@@ -14,7 +14,7 @@ Sinta-se a vontade!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&theme=vision-friendly-dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/stats/?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=vision-friendly-dark)
 
-### 📫 Vamos nos conectar?
+### 📫 Outras redes minhas?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukc30)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carvalholucas30@gmail.com)
