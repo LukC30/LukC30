@@ -11,8 +11,8 @@ Sinta-se a vontade!
 
 ### 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-AQUI]&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/stats/?username=[SEU-USUARIO-AQUI]&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukC30&layout=compact&theme=vision-friendly-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/stats/?username=LukC30&show_icons=true&theme=vision-friendly-dark)
 
 ### 📫 Outras redes minhas?
 
