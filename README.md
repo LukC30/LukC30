@@ -3,7 +3,7 @@
 Sou o Lucas, desenvolvedor web, sou ruim, mas trabalho pra melhorar, todos os dias
 Gosto de fazer overengeneering pesado com algumas ferramentas a fim de aprender
 
-Aprender codando é literalmente uma das melhores coisas que eu faço na minha rotina
+Aprender codando é literalmente uma das melhores coisas que eu faço na minha rotina!
 
 
 ### 🛠️ Meu Universo Técnico
