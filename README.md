@@ -1,12 +1,13 @@
 # Seja bem-vindo à minha bagunça! 👋
 
-Sou o Lucas, desenvolvedor web, sou ruim, mas trabalho pra melhorar, todos os dias
+Sou o Lucas, desenvolvedor web, sou ruim, mas trabalho pra melhorar todos os dias
+
 Gosto de fazer overengeneering pesado com algumas ferramentas, a fim de aprender
 
 Aprender codando é literalmente uma das melhores coisas que eu faço na minha rotina!
 
 
-### 🛠️ Meu Universo Técnico
+### 🛠️ Ferranebtas
 Aqui está minha stack, com todas as ferramentas que eu uso diariamente (ou quase)
 
 **Linguagens e Sistemas**
